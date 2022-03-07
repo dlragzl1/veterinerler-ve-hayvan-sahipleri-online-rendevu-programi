@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dilara/Desktop/Tasarim-ll-Proje-main-master (1)/Tasarim-ll-Proje-main-master/app/src/main/res/layout/activity_girisyap.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/Tasarim-ll-Proje-main-master (1)/Tasarim-ll-Proje-main-master/app/src/main/res/layout/activity_gostergepaneli.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/Tasarim-ll-Proje-main-master (1)/Tasarim-ll-Proje-main-master/app/src/main/res/layout/activity_kayitol.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/Tasarim-ll-Proje-main-master (1)/Tasarim-ll-Proje-main-master/app/src/main/res/layout/activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/drawable/ic_hay.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/activity_gostergepaneli.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/activity_hayvan_almak.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/activity_hvermek.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/activity_hvermek2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/activity_mapps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/activity_sahip.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dilara/Desktop/tasarim-son/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_Sahiplendirme.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_deneme.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_elektrikcarpmasi.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_genelilkyardim.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_gidazehirlenmesi.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_girisyap.xml" value="0.2817028985507246" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_gostergepaneli.xml" value="0.33" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hayvan_almak.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hayvan_vermek.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hayvanalmak.xml" value="0.2817028985507246" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hayvandestek.xml" value="0.2817028985507246" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hayvanlaricinilkyardim.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hayvanvermek.xml" value="0.33" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hvermek.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hvermek2.xml" value="0.1" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hvermek3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_hvermek4.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_kayitol.xml" value="0.2817028985507246" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_main.xml" value="0.2817028985507246" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_menu.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_profilbilgilerimiguncelle.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_profile.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_sahip.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_sahiplendirme.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_sahiplenme.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_sifredegistir.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/activity_ybancicisimyutma.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/yusuf/Desktop/Tasarim-ll-Proje-main/app/src/main/res/layout/hayvandestek.xml" value="0.2817028985507246" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

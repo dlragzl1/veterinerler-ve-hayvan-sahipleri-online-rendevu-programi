@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ArkaPlan"
+    android:orientation="vertical"
+    android:paddingHorizontal="30dp"
+    android:gravity="center"
+    tools:context=".hvermek"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İlan Oluştur"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp">
+
+        <EditText
+            android:id="@+id/turtxt1"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:hint="Tür Giriniz (kedi,kopek,vs.)"
+            android:paddingVertical="15dp"
+            android:paddingLeft="60dp" />
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_cruelty" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp">
+
+        <EditText
+            android:id="@+id/turtxt2"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:hint="Yaş Giriniz (Ay veya Yıl Olarak)"
+            android:paddingVertical="15dp"
+            android:paddingLeft="60dp" />
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_hay" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp">
+
+        <EditText
+            android:id="@+id/turtxt3"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:hint="İlan Açıklaması"
+            android:paddingVertical="15dp"
+            android:paddingLeft="60dp" />
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_cruelty" />
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/dvm1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Devam"
+        android:layout_marginTop="30dp"
+        android:textSize="20dp"
+        android:layout_marginHorizontal="45dp"
+        />
+
+
+</LinearLayout>
